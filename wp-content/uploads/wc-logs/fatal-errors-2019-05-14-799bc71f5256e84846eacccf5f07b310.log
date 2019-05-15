@@ -1,0 +1,10 @@
+2019-05-14T01:15:00+00:00 CRITICAL syntax error, unexpected ')' in /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ample/inc/functions.php on line 134
+
+2019-05-14T01:15:19+00:00 CRITICAL syntax error, unexpected ')' in /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ample/inc/functions.php on line 134
+
+2019-05-14T01:15:28+00:00 CRITICAL syntax error, unexpected ')' in /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ample/inc/functions.php on line 134
+
+2019-05-14T01:15:42+00:00 CRITICAL syntax error, unexpected ')' in /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ample/inc/functions.php on line 134
+
+2019-05-14T01:15:55+00:00 CRITICAL syntax error, unexpected ')' in /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ample/inc/functions.php on line 134
+
